@@ -1,0 +1,7481 @@
+[
+  {
+    "id": "a0ifD000003RvURQA0",
+    "name": "15219:IR26-IR112 Modern World History (RB)",
+    "professor": "松坂 裕晃",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rw8PQAS",
+    "name": "17123:超領域リベラルアーツ (GR)",
+    "professor": "光斎 翔貴、山末 英嗣",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyWsQAK",
+    "name": "52595:（留）日本語Ⅷ（アカデミック日本語a）(O1)",
+    "professor": "大久保 加奈子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry2FQAS",
+    "name": "52667:（留）日本語Ⅷ（アカデミック日本語b）(O2)",
+    "professor": "水野 瑛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxN2QAK",
+    "name": "53124:英語初級 103(QF)",
+    "professor": "竹本 明義",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxO0QAK",
+    "name": "53125:英語初級 103(QG)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxcWQAS",
+    "name": "53140:英語中級 105(QD)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxdUQAS",
+    "name": "53141:英語中級 105(QE)",
+    "professor": "杉森 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxlEQAS",
+    "name": "53149:英語中級 105(RF)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxmCQAS",
+    "name": "53150:英語中級 105(RG)",
+    "professor": "杉森 直樹",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry7oQAC",
+    "name": "53169:英語中級 107(5Q)",
+    "professor": "千葉 奈乙江",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry8mQAC",
+    "name": "53170:英語中級 107(6Q)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyGWQA0",
+    "name": "53178:英語中級 107(RD)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyHUQA0",
+    "name": "53179:英語中級 107(RE)",
+    "professor": "千葉 奈乙江",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwykQAC",
+    "name": "53202:英語上級 109(QB)",
+    "professor": "PETERSON SUNG HO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwziQAC",
+    "name": "53203:英語上級 109(QC)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxAnQAK",
+    "name": "53211:英語上級 109(RX)",
+    "professor": "PETERSON SUNG HO",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxabQAC",
+    "name": "53236:Professional Communication 301(RB)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxbZQAS",
+    "name": "53237:Professional Communication 301(RC)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxgPQAS",
+    "name": "53242:Academic Literacy 302(QA)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxjJQAS",
+    "name": "53245:Academic Literacy 302(QH)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxP1QAK",
+    "name": "53426:音声音響情報処理２(E1)",
+    "professor": "高島 遼一、西浦 敬信",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry7tQAC",
+    "name": "53615:Data Science(G1)",
+    "professor": "KHAN IBRAHIM",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwmbQAC",
+    "name": "34941:Liberal Arts Seminar (10)",
+    "professor": "大島 陽",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxRAQA0",
+    "name": "54620:Computers in Education(GV)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwqTQAS",
+    "name": "34946:Introductory Course to International Project Development(G1)",
+    "professor": "稲澤 泉",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rv7vQAC",
+    "name": "10060:（教）道徳授業発展演習 (GA)",
+    "professor": "荒木 寿友",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxZJQA0",
+    "name": "51164:Academic Skills 2 (GW)",
+    "professor": "HO Tat Hing",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyXqQAK",
+    "name": "52596:（留）日本語Ⅷ（アカデミック日本語a）(O2)",
+    "professor": "大久保 加奈子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxzfQAC",
+    "name": "52666:（留）日本語Ⅷ（アカデミック日本語b）(O1)",
+    "professor": "水野 瑛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxoNQAS",
+    "name": "54587:アメリカの社会と文化 (GV)",
+    "professor": "水谷 憲一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxQuQAK",
+    "name": "53128:英語初級 103(RF)",
+    "professor": "竹本 明義",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxRsQAK",
+    "name": "53129:英語初級 103(RG)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxeSQAS",
+    "name": "53142:英語中級 105(QF)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxfQQAS",
+    "name": "53143:英語中級 105(QG)",
+    "professor": "杉森 直樹",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxjIQAS",
+    "name": "53147:英語中級 105(RD)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxkGQAS",
+    "name": "53148:英語中級 105(RE)",
+    "professor": "杉森 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry9kQAC",
+    "name": "53171:英語中級 107(QD)",
+    "professor": "千葉 奈乙江",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyAiQAK",
+    "name": "53172:英語中級 107(QE)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyEaQAK",
+    "name": "53176:英語中級 107(5R)",
+    "professor": "千葉 奈乙江",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyFYQA0",
+    "name": "53177:英語中級 107(6R)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx0gQAC",
+    "name": "53204:英語上級 109(QX)",
+    "professor": "PETERSON SUNG HO",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx8rQAC",
+    "name": "53209:英語上級 109(RB)",
+    "professor": "PETERSON SUNG HO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx9pQAC",
+    "name": "53210:英語上級 109(RC)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxWjQAK",
+    "name": "53232:Professional Communication 301(QB)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxXhQAK",
+    "name": "53233:Professional Communication 301(QC)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxkHQAS",
+    "name": "53246:Academic Literacy 302(RA)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxnBQAS",
+    "name": "53249:Academic Literacy 302(RH)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxzlQAC",
+    "name": "53262:数学１(QC)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry4HQAS",
+    "name": "53265:数学１(RC)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyEbQAK",
+    "name": "53274:数学演習１(Q3)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyFZQA0",
+    "name": "53275:数学演習１(Q4)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwp5QAC",
+    "name": "53303:Engineering Mathematics 1 (G1)",
+    "professor": "SVININ MIKHAIL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxwsQAC",
+    "name": "53374:ユーザビリティ工学(A1)",
+    "professor": "島川 博光",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rws0QAC",
+    "name": "53392:インターネット技術 (B1)",
+    "professor": "上山 憲昭",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx1gQAC",
+    "name": "53407:認知工学(C1)",
+    "professor": "泉 朋子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx5zQAC",
+    "name": "53408:自然言語処理(Q)",
+    "professor": "西原 陽子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxLAQA0",
+    "name": "53507:論理回路(K1)",
+    "professor": "越智 裕之",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxM8QAK",
+    "name": "53508:論理回路(K2)",
+    "professor": "井上 克郎",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxN6QAK",
+    "name": "53509:論理回路(K3)",
+    "professor": "坪 泰宏",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxEjQAK",
+    "name": "53557:データサイエンス (Q)",
+    "professor": "中村 優吾",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxHJQA0",
+    "name": "53558:データサイエンス (R)",
+    "professor": "島川 博光",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxr7QAC",
+    "name": "53596:シミュレーション工学(F1)",
+    "professor": "北野 勝則",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry3NQAS",
+    "name": "53611:Network Systems(G1)",
+    "professor": "GOHOUROU DJEDJE",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RunBQAS",
+    "name": "15307:IR26-CULT104 Introduction to Linguistics (RA)",
+    "professor": "RAJKAI ZSOMBOR TIBOR",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwMpQAK",
+    "name": "35053:教養ゼミナール(38)",
+    "professor": "北村 佳久",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxKPQA0",
+    "name": "54683:教養ゼミナール(60)",
+    "professor": "荒井 秀典、清家 理、森永 貴彦",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxQDQA0",
+    "name": "54689:教養ゼミナール(66)",
+    "professor": "野澤 健",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RulPQAS",
+    "name": "10032:（教）道徳教育の理論と方法(GA)",
+    "professor": "荒木 寿友",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxRZQA0",
+    "name": "51147:Cross-cultural Encounters 1 (GX)",
+    "professor": "田村 優",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxXNQA0",
+    "name": "51160:Academic Skills 1 (GW)",
+    "professor": "HO Tat Hing",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxH9QAK",
+    "name": "52612:（留）日本語Ⅶ（文章表現a）(O6)",
+    "professor": "林 和子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwqvQAC",
+    "name": "52683:（留）日本語Ⅶ（文章表現b）(O6)",
+    "professor": "林 和子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry3XQAS",
+    "name": "54602:生命科学と倫理(GV)",
+    "professor": "赤塚 京子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxpMQAS",
+    "name": "54648:スポーツのサイエンス(GX)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwyjQAC",
+    "name": "53104:英語初級 101(Q4)",
+    "professor": "鈴木 ともこ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwzhQAC",
+    "name": "53105:英語初級 101(Q5)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rx0fQAC",
+    "name": "53106:英語初級 101(Q6)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rx1dQAC",
+    "name": "53107:英語初級 101(Q7)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxaaQAC",
+    "name": "53138:英語中級 105(Q2)",
+    "professor": "杉森 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxbYQAS",
+    "name": "53139:英語中級 105(Q3)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry3IQAS",
+    "name": "53166:英語中級 107(Q1)",
+    "professor": "LEPLA ANDREW JAMES",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry4GQAS",
+    "name": "53167:英語中級 107(Q2)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry6qQAC",
+    "name": "53168:英語中級 107(Q3)",
+    "professor": "LEPLA ANDREW JAMES",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyXwQAK",
+    "name": "53196:英語上級 109(G1)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyYuQAK",
+    "name": "53197:英語上級 109(G2)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwusQAC",
+    "name": "53198:英語上級 109(G3)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwvqQAC",
+    "name": "53199:英語上級 109(Q1)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwwoQAC",
+    "name": "53200:英語上級 109(3Q)",
+    "professor": "PETERSON SUNG HO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwxmQAC",
+    "name": "53201:英語上級 109(4Q)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxSrQAK",
+    "name": "53228:Professional Communication 301(G1)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxTpQAK",
+    "name": "53229:Professional Communication 301(G2)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxUnQAK",
+    "name": "53230:Professional Communication 301(G3)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry2LQAS",
+    "name": "53263:数学１(RA)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry3JQAS",
+    "name": "53264:数学１(RB)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyMLQA0",
+    "name": "53282:数学演習１(R5)",
+    "professor": "平岡 由夫",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyNJQA0",
+    "name": "53283:数学演習１(R6)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxIEQA0",
+    "name": "53330:Introduction to Differential Equations(G1)",
+    "professor": "SVININ MIKHAIL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxkIQAS",
+    "name": "53360:プログラミング演習２(E1)",
+    "professor": "田中 賢一郎",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxlGQAS",
+    "name": "53361:プログラミング演習２(E2)",
+    "professor": "李 印豪、劉 家慶",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxoAQAS",
+    "name": "53364:データ構造とアルゴリズム(A1)",
+    "professor": "槇原 絵里奈",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rx7vQAC",
+    "name": "53410:オブジェクト指向論(K1)",
+    "professor": "來村 徳信",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rx8tQAC",
+    "name": "53411:オブジェクト指向論(K2)",
+    "professor": "桑原 和宏",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxmFQAS",
+    "name": "53458:Web Information Engineering(G1)",
+    "professor": "GOHOUROU DJEDJE",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxlIQAS",
+    "name": "53536:プログラミング言語(E1)",
+    "professor": "田中 賢一郎",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry6uQAC",
+    "name": "53556:コンピュータプログラミング論 (A1)",
+    "professor": "丸山 勝久",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxWnQAK",
+    "name": "53575:Web情報技術概論(C1)",
+    "professor": "桑原 和宏、安尾 萌",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxcbQAC",
+    "name": "53581:センシング工学(D1)",
+    "professor": "島田 伸敬",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry6vQAC",
+    "name": "53613:Introduction to Robotic Systems (G1)",
+    "professor": "劉 文斌",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyQHQA0",
+    "name": "53634:技術経営概論(K1)",
+    "professor": "西之坊 穂",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rwj3QAC",
+    "name": "34937:Liberal Arts Seminar (8)",
+    "professor": "野澤 健",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwFAQA0",
+    "name": "17089:教養ゼミナール(3)",
+    "professor": "リム・ボン",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwLwQAK",
+    "name": "17096:教養ゼミナール(10)",
+    "professor": "辻 高明",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwdMQAS",
+    "name": "17114:教養ゼミナール(28)",
+    "professor": "永井 清",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwSdQAK",
+    "name": "35059:教養ゼミナール(44)",
+    "professor": "西澤 幹雄",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxQbQAK",
+    "name": "51145:Cross-cultural Encounters 1 (GV)",
+    "professor": "羽谷 沙織",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxI7QAK",
+    "name": "52613:（留）日本語Ⅶ（文章表現a）(O7)",
+    "professor": "林 和子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwrtQAC",
+    "name": "52684:（留）日本語Ⅶ（文章表現b）(O7)",
+    "professor": "林 和子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxbnQAC",
+    "name": "54571:社会と福祉(GV)",
+    "professor": "渡邊 充佳",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Ry3WQAS",
+    "name": "54507:科学・技術と社会(Q)",
+    "professor": "樫本 喜一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx5wQAC",
+    "name": "53108:英語初級 101(R4)",
+    "professor": "鈴木 ともこ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx6uQAC",
+    "name": "53109:英語初級 101(R5)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx7sQAC",
+    "name": "53110:英語初級 101(R6)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx8qQAC",
+    "name": "53111:英語初級 101(R7)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxhMQAS",
+    "name": "53145:英語中級 105(R2)",
+    "professor": "杉森 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxiKQAS",
+    "name": "53146:英語中級 105(R3)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyBgQAK",
+    "name": "53173:英語中級 107(R1)",
+    "professor": "LEPLA ANDREW JAMES",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyCeQAK",
+    "name": "53174:英語中級 107(R2)",
+    "professor": "LEPLA ANDREW JAMES",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyDcQAK",
+    "name": "53175:英語中級 107(R3)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx5xQAC",
+    "name": "53206:英語上級 109(R1)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx6vQAC",
+    "name": "53207:英語上級 109(3R)",
+    "professor": "PETERSON SUNG HO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx7tQAC",
+    "name": "53208:英語上級 109(4R)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rxo9QAC",
+    "name": "53250:Professional Communication 303(GA)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rxp7QAC",
+    "name": "53251:Professional Communication 303(GB)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rxq5QAC",
+    "name": "53252:Professional Communication 303(GC)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxxpQAC",
+    "name": "53260:数学１(QA)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxynQAC",
+    "name": "53261:数学１(QB)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyGXQA0",
+    "name": "53276:数学演習１(Q5)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyHVQA0",
+    "name": "53277:数学演習１(Q6)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxfSQAS",
+    "name": "53355:プログラミング演習２(A1)",
+    "professor": "槇原 絵里奈",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx0iQAC",
+    "name": "53405:社会システムデザイン創成２ (C1)",
+    "professor": "前田 亮、安尾 萌",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx9rQAC",
+    "name": "53412:ヒューマンインタフェース(Q)",
+    "professor": "泉 朋子、木村 朝子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxgSQAS",
+    "name": "53531:Presentation Plus 401(GG)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxzoQAC",
+    "name": "53551:システムアーキテクト演習(A1)",
+    "professor": "村尾 和哉",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Ry2OQAS",
+    "name": "53552:システムアーキテクト演習(A2)",
+    "professor": "吉田 則裕",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxO5QAK",
+    "name": "53565:ネットワーク開発実験(B1)",
+    "professor": "西村 俊和、毛利 公一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxUrQAK",
+    "name": "53573:知識工学(C1)",
+    "professor": "來村 徳信",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RySDQA0",
+    "name": "53636:ＩＴを活用した業務改革入門(K1)",
+    "professor": "古田 克利",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RuctQAC",
+    "name": "15264:IR26-POL104 Introduction to Peace Studies(RA)",
+    "professor": "クロス 京子",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RukNQAS",
+    "name": "15293:IR26-CULT102 Introduction to Gender Studies(RB)",
+    "professor": "KIM VIKTORIYA",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Rw7RQAS",
+    "name": "17121:超領域リベラルアーツ (GU)",
+    "professor": "川村 仁子、佐伯 和人、土元 哲平、仲内 悠祐、長岡 央、福留 未菜、湊 宣明、山出 美弥",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxkUQAS",
+    "name": "54484:日本の近現代と立命館(GV)",
+    "professor": "池田 伸、植田 展大、小関 素明、絹川 浩敏、君島 東彦、近藤 宏一、仲谷 善雄、中村 真悟、奈良 勝司",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyISQA0",
+    "name": "53180:英語中級 107(QX)",
+    "professor": "鈴木 ともこ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxO2QAK",
+    "name": "53337:コンピュータネットワーク(G1)",
+    "professor": "KOVACS MATE",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwieQAC",
+    "name": "53382:ソフトウェア開発論 (A1)",
+    "professor": "吉田 則裕",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwynQAC",
+    "name": "53486:生物科学２(K1)",
+    "professor": "中谷 仁",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwzlQAC",
+    "name": "53487:フーリエ解析(K1)",
+    "professor": "前田 忠彦",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Rx0jQAC",
+    "name": "53488:フーリエ解析(K2)",
+    "professor": "佐竹 賢治",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Rx1hQAC",
+    "name": "53489:フーリエ解析(K3)",
+    "professor": "李 周浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxAqQAK",
+    "name": "53496:Engineering Mathematics 4 (G1)",
+    "professor": "劉 文斌",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Rw5VQAS",
+    "name": "17117:超領域リベラルアーツ (GS)",
+    "professor": "木村 修平、サトウ タツヤ、島田 伸敬、谷口 忠大、西浦 敬信、山中 司",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "6"
+  },
+  {
+    "id": "a0ifD000003RyDIQA0",
+    "name": "51115:（教）特別支援教育概論 (G)",
+    "professor": "今枝 史雄",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": "6"
+  },
+  {
+    "id": "a0ifD000003RulJQAS",
+    "name": "15297:IR26-CULT103 Introduction to Anthropology(RA)",
+    "professor": "黄 信者",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwDEQA0",
+    "name": "17087:教養ゼミナール(1)",
+    "professor": "堀 雅晴",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxRnQAK",
+    "name": "52624:（留）日本語Ⅶ（読解a）(O7)",
+    "professor": "大久保 加奈子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rx0bQAC",
+    "name": "52694:（留）日本語Ⅶ（読解b）(O6)",
+    "professor": "大久保 加奈子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rxw8QAC",
+    "name": "54655:スポーツ方法実習Ⅰ(B)(21)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyEqQAK",
+    "name": "54671:スポーツ方法実習Ⅱ(C)(21)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyEZQA0",
+    "name": "53096:英語入門 091(R6)",
+    "professor": "桐原 雅子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyFXQA0",
+    "name": "53097:英語入門 091(R7)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxCiQAK",
+    "name": "53115:英語初級 102(Q6)",
+    "professor": "竹ノ内 朋子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxDgQAK",
+    "name": "53116:英語初級 102(Q7)",
+    "professor": "平野 亜也子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxEeQAK",
+    "name": "53117:英語初級 102(R4)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxHEQA0",
+    "name": "53118:英語初級 102(R5)",
+    "professor": "竹ノ内 朋子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxL6QAK",
+    "name": "53122:英語初級 103(Q4)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxM4QAK",
+    "name": "53123:英語初級 103(Q5)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxtwQAC",
+    "name": "53158:英語中級 106(QY)",
+    "professor": "桐原 雅子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxO1QAK",
+    "name": "53223:英語上級 110(3R)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxOzQAK",
+    "name": "53224:英語上級 110(4R)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry7pQAC",
+    "name": "53267:数学３(QB)",
+    "professor": "平岡 由夫",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry8nQAC",
+    "name": "53268:数学３(QC)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyCfQAK",
+    "name": "53272:数学演習１(Q1)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyDdQAK",
+    "name": "53273:数学演習１(Q2)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyQDQA0",
+    "name": "53288:物理１(K1)",
+    "professor": "村井 章彦",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxSsQAK",
+    "name": "53342:デジタル信号処理(K1)",
+    "professor": "耿 毓庭",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxTqQAK",
+    "name": "53343:デジタル信号処理(K2)",
+    "professor": "高島 遼一、永瀬 亮太郎",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxUoQAK",
+    "name": "53344:デジタル信号処理(K3)",
+    "professor": "山下 洋一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxcYQAS",
+    "name": "53352:Writing for Information Systems Engineering(GG)",
+    "professor": "COOPER ERIC WALLACE",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rxr5QAC",
+    "name": "53463:数学２(RB)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rxs3QAC",
+    "name": "53464:数学２(RC)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rwq5QAC",
+    "name": "53477:数学演習２(R1)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rwr3QAC",
+    "name": "53478:数学演習２(R2)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwxpQAC",
+    "name": "53485:物理２(K2)",
+    "professor": "村井 章彦",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxQ0QAK",
+    "name": "53513:データベース(K1)",
+    "professor": "村尾 和哉",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxQyQAK",
+    "name": "53514:データベース(K2)",
+    "professor": "村上 陽平",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxRwQAK",
+    "name": "53515:データベース(K3)",
+    "professor": "桑原 和宏",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rwi5QAC",
+    "name": "34935:Liberal Arts Seminar (7)",
+    "professor": "青木 幸子",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxV2QAK",
+    "name": "54624:Introduction to Global Justice (GV)",
+    "professor": "安武 留美",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RujRQAS",
+    "name": "15289:IR26-CULT102 Introduction to Gender Studies(RA)",
+    "professor": "KIM VIKTORIYA",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwECQA0",
+    "name": "17088:教養ゼミナール(2)",
+    "professor": "竹浜 修",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwH6QAK",
+    "name": "17091:教養ゼミナール(5)",
+    "professor": "竹濱 朝美",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwK0QAK",
+    "name": "17094:教養ゼミナール(8)",
+    "professor": "矢野 健一",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwVcQAK",
+    "name": "17106:教養ゼミナール(20)",
+    "professor": "増田 幸子",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwWaQAK",
+    "name": "17107:教養ゼミナール(21)",
+    "professor": "日暮 雅夫",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwRfQAK",
+    "name": "35058:教養ゼミナール(43)",
+    "professor": "宮本 十至子",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxcDQAS",
+    "name": "51170:Cross-cultural Seminar (GV)",
+    "professor": "田村 優",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxQpQAK",
+    "name": "52623:（留）日本語Ⅶ（読解a）(O6)",
+    "professor": "大久保 加奈子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx1ZQAS",
+    "name": "52695:（留）日本語Ⅶ（読解b）(O7)",
+    "professor": "大久保 加奈子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry3YQAS",
+    "name": "54661:スポーツ方法実習Ⅰ(D)(21)",
+    "professor": "渡邊 雅也",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyIiQAK",
+    "name": "54675:スポーツ方法実習Ⅱ(D)(21)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxeiQAC",
+    "name": "54634:現代社会とボランティア (GV)",
+    "professor": "秋吉 恵",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxgeQAC",
+    "name": "54638:現代社会のフィールドワーク(GV)",
+    "professor": "秋吉 恵",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxU3QAK",
+    "name": "54563:経済と社会(QA)",
+    "professor": "熊澤 大輔",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyLaQAK",
+    "name": "54527:社会学入門(P)",
+    "professor": "藤田 悟",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxlUQAS",
+    "name": "54644:スポーツと現代社会(PA)",
+    "professor": "塩見 俊一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxmSQAS",
+    "name": "54645:スポーツと現代社会(PB)",
+    "professor": "塩見 俊一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxnPQAS",
+    "name": "54586:ヨーロッパの歴史(C)",
+    "professor": "立川 ジェームズ",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxB1QAK",
+    "name": "54539:世界と日本の食文化(Q)",
+    "professor": "劉 征宇",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxsGQAS",
+    "name": "54651:現代人とヘルスケア(Q)",
+    "professor": "岡本 直輝",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyBfQAK",
+    "name": "53093:英語入門 091(Q6)",
+    "professor": "桐原 雅子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyCdQAK",
+    "name": "53094:英語入門 091(Q7)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxAmQAK",
+    "name": "53113:英語初級 102(Q4)",
+    "professor": "竹ノ内 朋子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxBkQAK",
+    "name": "53114:英語初級 102(Q5)",
+    "professor": "杉森 直樹",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxICQA0",
+    "name": "53119:英語初級 102(R6)",
+    "professor": "竹ノ内 朋子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxJAQA0",
+    "name": "53120:英語初級 102(R7)",
+    "professor": "平野 亜也子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxOyQAK",
+    "name": "53126:英語初級 103(R4)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxPwQAK",
+    "name": "53127:英語初級 103(R5)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry2KQAS",
+    "name": "53165:英語中級 106(RY)",
+    "professor": "桐原 雅子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxHFQA0",
+    "name": "53216:英語上級 110(3Q)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxIDQA0",
+    "name": "53217:英語上級 110(4Q)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyAjQAK",
+    "name": "53270:数学３(RB)",
+    "professor": "平岡 由夫",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyBhQAK",
+    "name": "53271:数学３(RC)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyITQA0",
+    "name": "53278:数学演習１(R1)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyJRQA0",
+    "name": "53279:数学演習１(R2)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyRBQA0",
+    "name": "53289:物理１(K2)",
+    "professor": "村井 章彦",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxEgQAK",
+    "name": "53328:多変量解析(Q)",
+    "professor": "山下 洋一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxHGQA0",
+    "name": "53329:多変量解析(R)",
+    "professor": "明石 行生",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxRuQAK",
+    "name": "53341:デジタル信号処理(G1)",
+    "professor": "GONCHARENKO IGOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxJDQA0",
+    "name": "53420:実世界情報演習３(D1)",
+    "professor": "安藤 潤人、木村 朝子、柴田 史久、島田 伸敬、中村 文彦、野間 春生、細田 侑也、松村 耕平、満田 隆、李 周浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxPzQAK",
+    "name": "53427:メディアプロジェクト演習２(E1)",
+    "professor": "櫛田 貴弘、徐 遅、高島 遼一、田中 賢一郎、陳 延偉、仲田 晋、西浦 敬信、満上 育久、李 亮",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxjLQAS",
+    "name": "53453:Systems Ergonomics (G1)",
+    "professor": "UHDE ALARITH",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxkJQAS",
+    "name": "53455:Data Visualization (G1)",
+    "professor": "COOPER ERIC WALLACE",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxnDQAS",
+    "name": "53459:数学２(QA)",
+    "professor": "原瀬 晋",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxoBQAS",
+    "name": "53460:数学２(QB)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwo9QAC",
+    "name": "53475:数学演習２(Q5)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwp7QAC",
+    "name": "53476:数学演習２(Q6)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx8uQAC",
+    "name": "53493:Engineering Mathematics 2 (G1)",
+    "professor": "SVININ MIKHAIL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry3MQAS",
+    "name": "53553:システムアーキテクトプログラミング演習(A1)",
+    "professor": "魯 希琴",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxkLQAS",
+    "name": "53589:音声音響情報処理１(E1)",
+    "professor": "高島 遼一、西浦 敬信",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry4LQAS",
+    "name": "53612:Human Interface(G1)",
+    "professor": "UHDE ALARITH",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyEpQAK",
+    "name": "54614:Liberal Arts Seminar (2)",
+    "professor": "中村 彰憲",
+    "campus": "松竹",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwH1QAK",
+    "name": "35047:教養ゼミナール(32)",
+    "professor": "金丸 裕一",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwKtQAK",
+    "name": "35051:教養ゼミナール(36)",
+    "professor": "稲田 康宏、折笠 有基、中本 トラン、毛利 真一郎",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxDxQAK",
+    "name": "54678:教養ゼミナール(55)",
+    "professor": "小久保 みどり",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RunHQAS",
+    "name": "10034:（教）道徳教育の理論と方法(GC)",
+    "professor": "荒木 寿友",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyakQAC",
+    "name": "52599:（留）日本語Ⅷ（キャリア日本語a）(O1)",
+    "professor": "林 和子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry6lQAC",
+    "name": "52670:（留）日本語Ⅷ（キャリア日本語b）(O1)",
+    "professor": "増井 奈穂美",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxaqQAC",
+    "name": "54630:仕事とキャリア(GV)",
+    "professor": "奥貫 麻紀",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxtEQAS",
+    "name": "54652:スポーツ方法実習Ⅰ(A)(21)",
+    "professor": "渡邊 雅也",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyBwQAK",
+    "name": "54668:スポーツ方法実習Ⅱ(B)(21)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxqIQAS",
+    "name": "54493:ジェンダーとダイバーシティ (W)",
+    "professor": "中村 正",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxUmQAK",
+    "name": "53132:英語初級 104(QF)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxVkQAK",
+    "name": "53133:英語初級 104(QG)",
+    "professor": "竹ノ内 朋子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxq4QAC",
+    "name": "53154:英語中級 106(QD)",
+    "professor": "桐原 雅子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxr2QAC",
+    "name": "53155:英語中級 106(QE)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxs0QAC",
+    "name": "53156:英語中級 106(QF)",
+    "professor": "桐原 雅子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxsyQAC",
+    "name": "53157:英語中級 106(QG)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyMKQA0",
+    "name": "53184:英語中級 108(5Q)",
+    "professor": "DURRANT BRIAN JAMES",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyNIQA0",
+    "name": "53185:英語中級 108(6Q)",
+    "professor": "MASTERS SETH DEMIAN",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyOGQA0",
+    "name": "53186:英語中級 108(QD)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyPEQA0",
+    "name": "53187:英語中級 108(QE)",
+    "professor": "MASTERS SETH DEMIAN",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxJBQA0",
+    "name": "53218:英語上級 110(QB)",
+    "professor": "LEPLA ANDREW JAMES",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxK9QAK",
+    "name": "53219:英語上級 110(QC)",
+    "professor": "PETERSON SUNG HO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxL7QAK",
+    "name": "53220:英語上級 110(QX)",
+    "professor": "LEPLA ANDREW JAMES",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxVlQAK",
+    "name": "53231:Professional Communication 301(QA)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxYfQAK",
+    "name": "53234:Professional Communication 301(QH)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxhNQAS",
+    "name": "53243:Academic Literacy 302(QB)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxiLQAS",
+    "name": "53244:Academic Literacy 302(QC)",
+    "professor": "DURRANT BRIAN JAMES",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxr3QAC",
+    "name": "53253:Professional Communication 303(QA)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxwrQAC",
+    "name": "53259:Academic Literacy 304(RA)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry6rQAC",
+    "name": "53266:数学３(QA)",
+    "professor": "原瀬 晋",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry9lQAC",
+    "name": "53269:数学３(RA)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyKPQA0",
+    "name": "53280:数学演習１(R3)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyLNQA0",
+    "name": "53281:数学演習１(R4)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxDiQAK",
+    "name": "53326:Introduction to Experimentation (G1)",
+    "professor": "SERDUELT UWE IMRE",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxJCQA0",
+    "name": "53331:Introduction to Probability and Statistics(G1)",
+    "professor": "KRYSSANOV VICTOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwfkQAC",
+    "name": "53378:分散システム(A1)",
+    "professor": "高田 秀志",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxZfQAK",
+    "name": "53437:最適化数学(F1)",
+    "professor": "西 竜志",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxp9QAC",
+    "name": "53461:数学２(QC)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxq7QAC",
+    "name": "53462:数学２(RA)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwifQAC",
+    "name": "53471:数学演習２(Q1)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwjdQAC",
+    "name": "53472:数学演習２(Q2)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxnEQAS",
+    "name": "53538:プログラミング言語(G1)",
+    "professor": "SALAMA SHADY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxVzQAK",
+    "name": "54565:企業と社会(Q)",
+    "professor": "小久保 みどり",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rwk1QAC",
+    "name": "34939:Liberal Arts Seminar (9)",
+    "professor": "西澤 幹雄",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RumFQAS",
+    "name": "15302:IR26-CULT103 Introduction to Anthropology(RB)",
+    "professor": "黄 信者",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwG8QAK",
+    "name": "17090:教養ゼミナール(4)",
+    "professor": "小泉 秀昭",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwF5QAK",
+    "name": "35045:教養ゼミナール(30)",
+    "professor": "野澤 健",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RumLQAS",
+    "name": "10033:（教）道徳教育の理論と方法(GB)",
+    "professor": "小川 雄",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RybiQAC",
+    "name": "52601:（留）日本語Ⅷ（キャリア日本語a）(O2)",
+    "professor": "増井 奈穂美",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxL1QAK",
+    "name": "52616:（留）日本語Ⅶ（文章表現a）(OE)",
+    "professor": "林 和子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Ry7jQAC",
+    "name": "52672:（留）日本語Ⅷ（キャリア日本語b）(O2)",
+    "professor": "増井 奈穂美",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx7oQAC",
+    "name": "52698:（留）日本語Ⅶ（読解b）(OE)",
+    "professor": "ベイリー あゆみ",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxboQAC",
+    "name": "54631:地域参加学習入門(GV)",
+    "professor": "秋吉 恵",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxnQQAS",
+    "name": "54646:スポーツのサイエンス(GV)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxPDQA0",
+    "name": "54555:映像メディア実践入門 (GV)",
+    "professor": "辻野 理花",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyCsQAK",
+    "name": "54516:論理と思考(GV)",
+    "professor": "伊勢 俊彦",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxS7QAK",
+    "name": "54561:現代社会と法(GV)",
+    "professor": "出口 雅久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxT5QAK",
+    "name": "54562:現代社会と法(GW)",
+    "professor": "出口 雅久",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxkVQAS",
+    "name": "54583:東アジアと朝鮮半島(Q)",
+    "professor": "勝村 誠",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyIgQAK",
+    "name": "54522:メンタルヘルス(Q)",
+    "professor": "尾上 明代",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxYeQAK",
+    "name": "53136:英語初級 104(RF)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxZcQAK",
+    "name": "53137:英語初級 104(RG)",
+    "professor": "竹ノ内 朋子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxwqQAC",
+    "name": "53161:英語中級 106(RD)",
+    "professor": "桐原 雅子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxxoQAC",
+    "name": "53162:英語中級 106(RE)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxymQAC",
+    "name": "53163:英語中級 106(RF)",
+    "professor": "桐原 雅子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxzkQAC",
+    "name": "53164:英語中級 106(RG)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyT6QAK",
+    "name": "53191:英語中級 108(5R)",
+    "professor": "DURRANT BRIAN JAMES",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyU4QAK",
+    "name": "53192:英語中級 108(6R)",
+    "professor": "MASTERS SETH DEMIAN",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyV2QAK",
+    "name": "53193:英語中級 108(RD)",
+    "professor": "MASTERS SETH DEMIAN",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyW0QAK",
+    "name": "53194:英語中級 108(RE)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxPxQAK",
+    "name": "53225:英語上級 110(RB)",
+    "professor": "LEPLA ANDREW JAMES",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxQvQAK",
+    "name": "53226:英語上級 110(RC)",
+    "professor": "PETERSON SUNG HO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxRtQAK",
+    "name": "53227:英語上級 110(RX)",
+    "professor": "LEPLA ANDREW JAMES",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxZdQAK",
+    "name": "53235:Professional Communication 301(RA)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxcXQAS",
+    "name": "53238:Professional Communication 301(RH)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxlFQAS",
+    "name": "53247:Academic Literacy 302(RB)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxmDQAS",
+    "name": "53248:Academic Literacy 302(RC)",
+    "professor": "DURRANT BRIAN JAMES",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rxs1QAC",
+    "name": "53254:Professional Communication 303(RA)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxvtQAC",
+    "name": "53258:Academic Literacy 304(QA)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxBmQAK",
+    "name": "53324:Introduction to Information Systems Engineering(G1)",
+    "professor": "VALENTINUS ROBY H.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwjcQAC",
+    "name": "53384:ソフトウェア仕様化技法(A1)",
+    "professor": "大西 淳",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx9sQAC",
+    "name": "53495:Engineering Mathematics 3 (G1)",
+    "professor": "SVININ MIKHAIL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxdYQAS",
+    "name": "53527:人工知能(G1)",
+    "professor": "KHAN IBRAHIM",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxW0QAK",
+    "name": "54625:Non-verbal Communication(GV)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RudpQAC",
+    "name": "15268:IR26-POL104 Introduction to Peace Studies(RB)",
+    "professor": "シン ヒョンオ",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwSiQAK",
+    "name": "17103:教養ゼミナール(17)",
+    "professor": "勝村 誠",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxhcQAC",
+    "name": "54639:シチズンシップ・スタディーズ (GV)",
+    "professor": "秋吉 恵",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyJ6QAK",
+    "name": "51122:（教）生徒指導・進路指導の理論と方法(G)",
+    "professor": "恩庄 澄",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyIRQA0",
+    "name": "53100:英語入門 092(QW)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyWyQAK",
+    "name": "53195:英語中級 108(QX)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxnCQAS",
+    "name": "53363:プログラミング演習２(G1)",
+    "professor": "VALENTINUS ROBY H.、CALUYA NICKO REGINIO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxRvQAK",
+    "name": "53429:パターン認識(E1)",
+    "professor": "山下 洋一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxwuQAC",
+    "name": "53548:プログラミング演習１(G1)",
+    "professor": "CALUYA NICKO REGINIO、SALAMA SHADY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Ry9pQAC",
+    "name": "53617:情報と職業(K1)",
+    "professor": "佐竹 賢治",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyBlQAK",
+    "name": "53619:情報技術実践１(K1)",
+    "professor": "坪 泰宏",
+    "campus": "OIC/OIC/OIC/OIC",
+    "term": "通年",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyDhQAK",
+    "name": "53621:情報技術実践２(K1)",
+    "professor": "坪 泰宏",
+    "campus": "OIC/OIC/OIC",
+    "term": "秋＋冬",
+    "day": "火",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RvTTQA0",
+    "name": "15214:IR26-IR112 Modern World History (RA)",
+    "professor": "松坂 裕晃",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwaSQAS",
+    "name": "17111:教養ゼミナール(25)",
+    "professor": "中村 大",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwUZQA0",
+    "name": "35061:教養ゼミナール(46)",
+    "professor": "山中 司",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxUhQAK",
+    "name": "52627:（留）日本語Ⅶ（読解a）(OE)",
+    "professor": "堤 美千絵",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxehQAC",
+    "name": "54576:（留）日本の経済・経営(GV)",
+    "professor": "西 洋",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rxz2QAC",
+    "name": "54658:スポーツ方法実習Ⅰ(C)(22)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry92QAC",
+    "name": "54665:スポーツ方法実習Ⅱ(A)(21)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxXvQAK",
+    "name": "54567:現代の国際関係と日本(GV)",
+    "professor": "金 容賛",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxoMQAS",
+    "name": "54488:ジェンダーとダイバーシティ (P)",
+    "professor": "宋 基燦",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RySmQAK",
+    "name": "51132:（教）学校文化論(G)",
+    "professor": "四方 利明",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwwpQAC",
+    "name": "53312:情報理工基礎演習(RA)",
+    "professor": "丸山 勝久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwxnQAC",
+    "name": "53313:情報理工基礎演習(RB)",
+    "professor": "李 周浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwylQAC",
+    "name": "53314:情報理工基礎演習(RC)",
+    "professor": "野口 拓",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwzjQAC",
+    "name": "53315:情報理工基礎演習(RD)",
+    "professor": "前田 亮",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rx0hQAC",
+    "name": "53316:情報理工基礎演習(RE)",
+    "professor": "西浦 敬信",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rx1fQAC",
+    "name": "53317:情報理工基礎演習(RF)",
+    "professor": "FLANAGAN BRENDAN J.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rx5yQAC",
+    "name": "53318:情報理工基礎演習(RG)",
+    "professor": "遠里 由佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxP0QAK",
+    "name": "53338:コンピュータネットワーク(K1)",
+    "professor": "山本 寛",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxPyQAK",
+    "name": "53339:コンピュータネットワーク(K2)",
+    "professor": "西村 俊和",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxQwQAK",
+    "name": "53340:コンピュータネットワーク(K3)",
+    "professor": "島田 伸敬",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwvsQAC",
+    "name": "53399:システムセキュリティ(B1)",
+    "professor": "上原 哲太郎",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxeVQAS",
+    "name": "53444:PBL 3: Creative Design (G1)",
+    "professor": "SERDUELT UWE IMRE",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxfTQAS",
+    "name": "53446:PBL 3: Creative Design (G2)",
+    "professor": "KOVACS MATE",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rxt1QAC",
+    "name": "53465:数学４(QA)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwenQAC",
+    "name": "53467:数学４(QC)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwmDQAS",
+    "name": "53473:数学演習２(Q3)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwnBQAS",
+    "name": "53474:数学演習２(Q4)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxBoQAK",
+    "name": "53498:離散数学(Q)",
+    "professor": "徐 遅、高島 遼一、野口 拓",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxEiQAK",
+    "name": "53501:数値解析(R)",
+    "professor": "仲田 晋、野間 春生、松村 耕平",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxyqQAC",
+    "name": "53550:電気電子回路(RA)",
+    "professor": "佐竹 賢治",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxP3QAK",
+    "name": "53566:言語処理系(A1)",
+    "professor": "上原 哲太郎",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxmHQAS",
+    "name": "53591:コンピュータグラフィックス応用(E1)",
+    "professor": "田中 賢一郎、田中 覚",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwtNQAS",
+    "name": "34949:Introduction to Food Culture(G1)",
+    "professor": "YOTOVA MARIA IVANOVA",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwOqQAK",
+    "name": "17099:教養ゼミナール(13)",
+    "professor": "COULSON DAVID、佐々木 冠、滝沢 直宏、平田 裕、山崎 のぞみ",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwUeQAK",
+    "name": "17105:教養ゼミナール(19)",
+    "professor": "柳澤 伸司",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwOlQAK",
+    "name": "35055:教養ゼミナール(40)",
+    "professor": "西村 直子",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxITQA0",
+    "name": "54681:教養ゼミナール(58)",
+    "professor": "中村 真悟",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwnZQAS",
+    "name": "34943:Introduction to Economics(G1)",
+    "professor": "黒川 清登",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RuhZQAS",
+    "name": "15282:IR26-LAW101 Introduction to Law (RB)",
+    "professor": "越智 萌",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyecQAC",
+    "name": "52607:（留）日本語Ⅶ（文章表現a）(O1)",
+    "professor": "ベイリー あゆみ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxBfQAK",
+    "name": "52608:（留）日本語Ⅶ（文章表現a）(O2)",
+    "professor": "松島 弘枝",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyAdQAK",
+    "name": "52678:（留）日本語Ⅶ（文章表現b）(O1)",
+    "professor": "寺尾 美登里",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwn3QAC",
+    "name": "52679:（留）日本語Ⅶ（文章表現b）(O2)",
+    "professor": "松島 弘枝",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxlSQAS",
+    "name": "54485:ピア・サポート論(GV)",
+    "professor": "中島 英博",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyGkQAK",
+    "name": "54520:宗教と社会(GV)",
+    "professor": "中西 尋子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry4WQAS",
+    "name": "54662:スポーツ方法実習Ⅰ(D)(22)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyA0QAK",
+    "name": "54666:スポーツ方法実習Ⅱ(A)(22)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyUIQA0",
+    "name": "54536:世界の言語と文化(GW)",
+    "professor": "金 容賛",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxQBQA0",
+    "name": "54557:映像メディア実践入門 (GW)",
+    "professor": "辻野 理花",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxw6QAC",
+    "name": "54501:日本国憲法(GW)",
+    "professor": "上出 浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxfgQAC",
+    "name": "54636:現代社会とボランティア (GW)",
+    "professor": "高橋 結",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwq3QAC",
+    "name": "53305:情報理工基礎演習(QA)",
+    "professor": "仲田 晋",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwr1QAC",
+    "name": "53306:情報理工基礎演習(QB)",
+    "professor": "松村 耕平",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwrzQAC",
+    "name": "53307:情報理工基礎演習(QC)",
+    "professor": "満田 隆",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwsxQAC",
+    "name": "53308:情報理工基礎演習(QD)",
+    "professor": "西村 俊和",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwtvQAC",
+    "name": "53309:情報理工基礎演習(QE)",
+    "professor": "山下 茂",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwutQAC",
+    "name": "53310:情報理工基礎演習(QF)",
+    "professor": "THAWONMAS RUCK",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwvrQAC",
+    "name": "53311:情報理工基礎演習(QG)",
+    "professor": "服部 宏充",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxL8QAK",
+    "name": "53334:ソフトウェア工学(K1)",
+    "professor": "丸山 勝久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxM6QAK",
+    "name": "53335:ソフトウェア工学(K2)",
+    "professor": "大西 淳",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxN4QAK",
+    "name": "53336:ソフトウェア工学(K3)",
+    "professor": "吉田 則裕",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxiMQAS",
+    "name": "53358:プログラミング演習２(D1)",
+    "professor": "柴田 史久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxjKQAS",
+    "name": "53359:プログラミング演習２(D2)",
+    "professor": "細田 侑也",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwr2QAC",
+    "name": "53391:セキュアシステム開発実験(B1)",
+    "professor": "毛利 公一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwxoQAC",
+    "name": "53402:情報アクセス論(C1)",
+    "professor": "西原 陽子、前田 亮",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxlHQAS",
+    "name": "53457:Image Processing(G1)",
+    "professor": "GONCHARENKO IGOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwflQAC",
+    "name": "53468:数学４(RA)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwhhQAC",
+    "name": "53470:数学４(RC)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rws1QAC",
+    "name": "53479:数学演習２(R3)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwszQAC",
+    "name": "53480:数学演習２(R4)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxO4QAK",
+    "name": "53510:Experimental Design (G1)",
+    "professor": "SERDUELT UWE IMRE",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxP2QAK",
+    "name": "53512:データベース(G1)",
+    "professor": "VALENTINUS ROBY H.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxxsQAC",
+    "name": "53549:電気電子回路(QA)",
+    "professor": "越智 裕之",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxLBQA0",
+    "name": "53562:計算機アーキテクチャ(A1)",
+    "professor": "山下 茂",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxVpQAK",
+    "name": "53574:社会デザイン論(C1)",
+    "professor": "服部 宏充",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxafQAC",
+    "name": "53579:実世界情報演習２(D1)",
+    "professor": "李 周浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxbdQAC",
+    "name": "53580:実世界情報演習２(D2)",
+    "professor": "藤井 康之",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxiPQAS",
+    "name": "53587:メディアプロジェクト演習１(E1)",
+    "professor": "永瀬 亮太郎",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxjNQAS",
+    "name": "53588:メディアプロジェクト演習１(E2)",
+    "professor": "耿 毓庭、劉 家慶",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwocQAC",
+    "name": "16966:Liberal Arts Seminar (1)",
+    "professor": "曹 瑞林",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwJ2QAK",
+    "name": "17093:教養ゼミナール(7)",
+    "professor": "君島 東彦",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwXYQA0",
+    "name": "17108:教養ゼミナール(22)",
+    "professor": "木立 雅朗",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwIxQAK",
+    "name": "35049:教養ゼミナール(34)",
+    "professor": "福井 正博",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwJvQAK",
+    "name": "35050:教養ゼミナール(35)",
+    "professor": "永井 清",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwQhQAK",
+    "name": "35057:教養ゼミナール(42)",
+    "professor": "中村 大",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwWVQA0",
+    "name": "35063:教養ゼミナール(48)",
+    "professor": "細木 るみこ",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwoXQAS",
+    "name": "34944:Introduction to Economics(G2)",
+    "professor": "MASWANA JEAN-CLAUDE",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RvgWQAS",
+    "name": "30971:（教）道徳授業発展演習 (G1)",
+    "professor": "井上 陽平",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxCdQAK",
+    "name": "52609:（留）日本語Ⅶ（文章表現a）(O3)",
+    "professor": "ベイリー あゆみ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxDbQAK",
+    "name": "52610:（留）日本語Ⅶ（文章表現a）(O4)",
+    "professor": "松島 弘枝",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxEZQA0",
+    "name": "52611:（留）日本語Ⅶ（文章表現a）(O5)",
+    "professor": "寺尾 美登里",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rwo1QAC",
+    "name": "52680:（留）日本語Ⅶ（文章表現b）(O3)",
+    "professor": "山田 千晶",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwozQAC",
+    "name": "52681:（留）日本語Ⅶ（文章表現b）(O4)",
+    "professor": "松島 弘枝",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwpxQAC",
+    "name": "52682:（留）日本語Ⅶ（文章表現b）(O5)",
+    "professor": "堤 美千絵",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry76QAC",
+    "name": "54663:スポーツ方法実習Ⅰ(D)(23)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyJgQAK",
+    "name": "54676:スポーツ方法実習Ⅱ(D)(22)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxx5QAC",
+    "name": "54597:材料と化学 (GV)",
+    "professor": "小堤 和彦",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxy2QAC",
+    "name": "54503:災害と安全(BB)",
+    "professor": "蔡 秀卿",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwmBQAS",
+    "name": "53300:情報基礎数学(K1)",
+    "professor": "徐 遅",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rwn9QAC",
+    "name": "53301:情報基礎数学(K2)",
+    "professor": "北野 勝則",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rwo7QAC",
+    "name": "53302:情報基礎数学(K3)",
+    "professor": "鷹取 慧",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxKAQA0",
+    "name": "53333:ソフトウェア工学(G1)",
+    "professor": "KOVACS MATE",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxZeQAK",
+    "name": "53349:Applied Informatics 1(G1)",
+    "professor": "SALAMA SHADY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxr4QAC",
+    "name": "53367:データ構造とアルゴリズム(D1)",
+    "professor": "柴田 史久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxuwQAC",
+    "name": "53371:計算機科学実験１ (A1)",
+    "professor": "大西 淳、山下 茂、吉田 則裕、魯 希琴",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rwo8QAC",
+    "name": "53388:メディア処理実験(A1)",
+    "professor": "仲田 晋、劉 家慶",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwtwQAC",
+    "name": "53395:セキュリティ・ネットワーク学実験 (B1)",
+    "professor": "上原 哲太郎、上山 憲昭、宮地 秀至、吉田 政望",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwuuQAC",
+    "name": "53397:セキュリティ・ネットワーク学実験 (B2)",
+    "professor": "上原 哲太郎、上山 憲昭、宮地 秀至、吉田 政望",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwwqQAC",
+    "name": "53400:社会システムデザイン創成１ (C1)",
+    "professor": "桑原 和宏",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxKBQA0",
+    "name": "53421:実世界情報実験３(D1)",
+    "professor": "安藤 潤人、島田 伸敬、中村 文彦、野間 春生",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxL9QAK",
+    "name": "53422:実世界情報実験３(D2)",
+    "professor": "安藤 潤人、島田 伸敬、高橋 治輝、野間 春生、藤井 康之",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxQxQAK",
+    "name": "53428:メディア実験２(E1)",
+    "professor": "櫛田 貴弘、耿 毓庭、永瀬 亮太郎、李 印豪",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxTrQAK",
+    "name": "53431:知能情報処理演習(F1)",
+    "professor": "川西 康友、宋 裕、李 加一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxUpQAK",
+    "name": "53432:知能情報処理演習(F2)",
+    "professor": "川西 康友、宋 裕、李 加一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxadQAC",
+    "name": "53438:PBL 1: Problem Analysis and Modeling (G1)",
+    "professor": "UHDE ALARITH、VALENTINUS ROBY H.、COOPER ERIC WALLACE、KRYSSANOV VICTOR、GOHOUROU DJEDJE、SERDUELT UWE IMRE、THAWONMAS RUCK、CHANDLER DAMON M.、劉 文斌",
+    "campus": "OIC/OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxbbQAC",
+    "name": "53440:PBL 1: Problem Analysis and Modeling (G2)",
+    "professor": "UHDE ALARITH、VALENTINUS ROBY H.、COOPER ERIC WALLACE、KRYSSANOV VICTOR、GOHOUROU DJEDJE、SERDUELT UWE IMRE、THAWONMAS RUCK、CHANDLER DAMON M.、劉 文斌",
+    "campus": "OIC/OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwdpQAC",
+    "name": "53466:数学４(QB)",
+    "professor": "加藤 正輝",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwgjQAC",
+    "name": "53469:数学４(RB)",
+    "professor": "平岡 敬浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwtxQAC",
+    "name": "53481:数学演習２(R5)",
+    "professor": "村田 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwuvQAC",
+    "name": "53482:数学演習２(R6)",
+    "professor": "吉田 尚矢",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry4KQAS",
+    "name": "53554:計算機科学実験２ (A1)",
+    "professor": "大西 淳、丸山 勝久、山下 茂、魯 希琴",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxIHQA0",
+    "name": "53559:計算機科学実験２ (B1)",
+    "professor": "穐山 空道、野口 拓、吉田 政望",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxN7QAK",
+    "name": "53564:セキュリティ・ネットワーク学実験２(B1)",
+    "professor": "山本 寛、吉田 政望",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxfVQAS",
+    "name": "53584:実世界情報処理(D1)",
+    "professor": "島田 伸敬、李 周浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxhRQAS",
+    "name": "53586:メディア実験１(E1)",
+    "professor": "徐 遅、田中 賢一郎、李 印豪",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxvxQAC",
+    "name": "53601:PBL 2: Team-based Design (G1)",
+    "professor": "VALENTINUS ROBY H.、KHAN IBRAHIM、COOPER ERIC WALLACE、SERDUELT UWE IMRE、THAWONMAS RUCK、CHANDLER DAMON M.、劉 文斌",
+    "campus": "OIC/OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxwvQAC",
+    "name": "53603:PBL 2: Team-based Design (G2)",
+    "professor": "UHDE ALARITH、KHAN IBRAHIM、CALUYA NICKO REGINIO、KRYSSANOV VICTOR、KOVACS MATE、THAWONMAS RUCK",
+    "campus": "OIC/OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxNIQA0",
+    "name": "54616:Introduction to Computational Linguistics(GV)",
+    "professor": "金丸 敏幸",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RuSbQAK",
+    "name": "15235:IR26-IR114 Special Lecture (General Education Course)(RC)",
+    "professor": "AVILES ERNULT J. R.",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwPoQAK",
+    "name": "17100:教養ゼミナール(14)",
+    "professor": "島田 幸司",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwTgQAK",
+    "name": "17104:教養ゼミナール(18)",
+    "professor": "出口 雅久",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwG3QAK",
+    "name": "35046:教養ゼミナール(31)",
+    "professor": "黒川 清登",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwZPQA0",
+    "name": "35066:教養ゼミナール(51)",
+    "professor": "谷浦 秀夫",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxHVQA0",
+    "name": "54680:教養ゼミナール(57)",
+    "professor": "田中 力",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxLNQA0",
+    "name": "54684:教養ゼミナール(61)",
+    "professor": "田中 力",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxOfQAK",
+    "name": "51141:Academic Skills 2 (GV)",
+    "professor": "HO Tat Hing",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxbFQAS",
+    "name": "51168:Cross-cultural Encounters 1 (GT)",
+    "professor": "石川 涼子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxmQQAS",
+    "name": "54486:ピア・サポート論(GW)",
+    "professor": "藤本 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxgdQAC",
+    "name": "54579:新しい日本史像(GV)",
+    "professor": "美川 圭",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxcmQAC",
+    "name": "54632:地域参加学習入門(GW)",
+    "professor": "小辻 寿規",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxdkQAC",
+    "name": "54633:地域参加学習入門(GX)",
+    "professor": "高橋 結",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyTKQA0",
+    "name": "54535:世界の言語と文化(GV)",
+    "professor": "田原 憲和",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyOuQAK",
+    "name": "51128:（教）教職実践演習（中・高）(G)",
+    "professor": "四方 利明",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyOHQA0",
+    "name": "53284:化学 (K1)",
+    "professor": "田中 謙",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxdWQAS",
+    "name": "53353:Presentation for Information Systems Engineering(GG)",
+    "professor": "KRYSSANOV VICTOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxeUQAS",
+    "name": "53354:特殊講義（共通専門）DX (K1)",
+    "professor": "西原 陽子、原田 史子、PITUXCOOSUVARN M.、安尾 萌",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwymQAC",
+    "name": "53403:Webアプリケーション(C1)",
+    "professor": "桑原 和宏、PITUXCOOSUVARN M.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxDjQAK",
+    "name": "53416:機械工学概論(D1)",
+    "professor": "満田 隆",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxgRQAS",
+    "name": "53448:PBL 5: Design Evolution (G1)",
+    "professor": "COOPER ERIC WALLACE、CHANDLER DAMON M.",
+    "campus": "OIC/OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxhPQAS",
+    "name": "53450:PBL 5: Design Evolution (G2)",
+    "professor": "KRYSSANOV VICTOR、SERDUELT UWE IMRE、THAWONMAS RUCK",
+    "campus": "OIC/OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx60QAC",
+    "name": "53490:確率・統計(K1)",
+    "professor": "山下 洋一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx6yQAC",
+    "name": "53491:確率・統計(K2)",
+    "professor": "永瀬 亮太郎、劉 家慶",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx7wQAC",
+    "name": "53492:確率・統計(K3)",
+    "professor": "西川 郁子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxSvQAK",
+    "name": "53571:テキストマイニング(C1)",
+    "professor": "SHAN JUNJIE、FLANAGAN BRENDAN J.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Ruo7QAC",
+    "name": "15312:IR26-CULT104 Introduction to Linguistics (RB)",
+    "professor": "RAJKAI ZSOMBOR TIBOR",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwRkQAK",
+    "name": "17102:教養ゼミナール(16)",
+    "professor": "近藤 雪絵",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwbQQAS",
+    "name": "17112:教養ゼミナール(26)",
+    "professor": "小林 香保里",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwXTQA0",
+    "name": "35064:教養ゼミナール(49)",
+    "professor": "稲津 哲也",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxPFQA0",
+    "name": "54688:教養ゼミナール(65)",
+    "professor": "北原 聡",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxZsQAK",
+    "name": "54629:学びとキャリア(GV)",
+    "professor": "奥貫 麻紀",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyFmQAK",
+    "name": "54519:科学技術と倫理(Q)",
+    "professor": "鈴木 竜雄",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyBMQA0",
+    "name": "51113:（教）教育社会学(G)",
+    "professor": "四方 利明",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyGCQA0",
+    "name": "51118:（教）総合的な学習の時間の理論と方法 (G)",
+    "professor": "四方 利明",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxSuQAK",
+    "name": "53516:オペレーティングシステム(G1)",
+    "professor": "GOHOUROU DJEDJE",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyCjQAK",
+    "name": "53620:情報技術実践３(K1)",
+    "professor": "坪 泰宏",
+    "campus": "OIC/OIC/OIC/OIC",
+    "term": "通年",
+    "day": "水",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyM0QAK",
+    "name": "51125:（教）教育実習事前指導 (G)",
+    "professor": "四方 利明",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": "6"
+  },
+  {
+    "id": "a0ifD000003RyRoQAK",
+    "name": "51131:（教）学校教育総合演習 (G)",
+    "professor": "四方 利明",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "水",
+    "period": "6"
+  },
+  {
+    "id": "a0ifD000003RxOGQA0",
+    "name": "54617:History of Computing(GV)",
+    "professor": "SVININ MIKHAIL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxS8QAK",
+    "name": "54621:Language in Politics(GV)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RuP7QAK",
+    "name": "15227:IR26-IR114 Special Lecture (General Education Course)(RA)",
+    "professor": "門脇 浩明",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwQmQAK",
+    "name": "17101:教養ゼミナール(15)",
+    "professor": "山中 司",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RycgQAC",
+    "name": "52603:（留）日本語Ⅷ（キャリア日本語a）(O3)",
+    "professor": "山田 千晶",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry9fQAC",
+    "name": "52676:（留）日本語Ⅷ（キャリア日本語b）(O4)",
+    "professor": "山田 千晶",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyYoQAK",
+    "name": "52597:（留）日本語Ⅷ（アカデミック日本語a）(O3)",
+    "professor": "大島 弥生",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxNvQAK",
+    "name": "52620:（留）日本語Ⅶ（読解a）(O3)",
+    "professor": "大治 道子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxOtQAK",
+    "name": "52621:（留）日本語Ⅶ（読解a）(O4)",
+    "professor": "角田 麻美",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxPrQAK",
+    "name": "52622:（留）日本語Ⅶ（読解a）(O5)",
+    "professor": "辻 恵子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxSlQAK",
+    "name": "52625:（留）日本語Ⅶ（読解a）(O8)",
+    "professor": "林 希和子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxTjQAK",
+    "name": "52626:（留）日本語Ⅶ（読解a）(O9)",
+    "professor": "水野 瑛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry3DQAS",
+    "name": "52668:（留）日本語Ⅷ（アカデミック日本語b）(O3)",
+    "professor": "大島 弥生",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwvlQAC",
+    "name": "52689:（留）日本語Ⅶ（読解b）(O1)",
+    "professor": "大治 道子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwwjQAC",
+    "name": "52690:（留）日本語Ⅶ（読解b）(O2)",
+    "professor": "角田 麻美",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rx5sQAC",
+    "name": "52696:（留）日本語Ⅶ（読解b）(O8)",
+    "professor": "林 希和子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rx6qQAC",
+    "name": "52697:（留）日本語Ⅶ（読解b）(O9)",
+    "professor": "林 和子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rxy4QAC",
+    "name": "54657:スポーツ方法実習Ⅰ(C)(21)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyFoQAK",
+    "name": "54672:スポーツ方法実習Ⅱ(C)(22)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyDbQAK",
+    "name": "53095:英語入門 091(QR)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rx9oQAC",
+    "name": "53112:英語初級 101(QP)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rx1eQAC",
+    "name": "53205:英語上級 109(QZ)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyPFQA0",
+    "name": "53286:化学 (K2)",
+    "professor": "田中 謙",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwelQAC",
+    "name": "53291:生物科学 (K1)",
+    "professor": "越智 杏奈",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwfjQAC",
+    "name": "53293:Physics (G1)",
+    "professor": "SVININ MIKHAIL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Rxt0QAC",
+    "name": "53369:データ構造とアルゴリズム(F1)",
+    "professor": "遠里 由佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwmCQAS",
+    "name": "53385:データモデル論 (A1)",
+    "professor": "高田 秀志",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxM7QAK",
+    "name": "53423:ロボティクス(D1)",
+    "professor": "李 周浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxJEQA0",
+    "name": "53505:Applied Informatics 2(G1)",
+    "professor": "劉 文斌",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxXkQAK",
+    "name": "53521:ネットワークセキュリティ(K1)",
+    "professor": "野島 良",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxYiQAK",
+    "name": "53522:ネットワークセキュリティ(K2)",
+    "professor": "毛利 公一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxZgQAK",
+    "name": "53523:ネットワークセキュリティ(K3)",
+    "professor": "山本 寛",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxQCQA0",
+    "name": "54619:Understanding Language(GV)",
+    "professor": "杉野 直樹、杉森 直樹",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rup3QAC",
+    "name": "15317:IR26-CULT105 Japan and the World (RA)",
+    "professor": "AVILES ERNULT J. R.",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RupzQAC",
+    "name": "15321:IR26-CULT105 Japan and the World (RB)",
+    "professor": "AVILES ERNULT J. R.",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RweKQAS",
+    "name": "17115:教養ゼミナール(29)",
+    "professor": "木村 修平、近藤 雪絵",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwHzQAK",
+    "name": "35048:教養ゼミナール(33)",
+    "professor": "道関 隆国",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwNnQAK",
+    "name": "35054:教養ゼミナール(39)",
+    "professor": "谷垣 和則",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwYRQA0",
+    "name": "35065:教養ゼミナール(50)",
+    "professor": "田中 謙",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxMLQA0",
+    "name": "54685:教養ゼミナール(62)",
+    "professor": "山崎 文徳",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxNJQA0",
+    "name": "54686:教養ゼミナール(63)",
+    "professor": "西村 陽造",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxJ5QAK",
+    "name": "52614:（留）日本語Ⅶ（文章表現a）(O8)",
+    "professor": "大治 道子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxK3QAK",
+    "name": "52615:（留）日本語Ⅶ（文章表現a）(O9)",
+    "professor": "林 希和子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxLzQAK",
+    "name": "52618:（留）日本語Ⅶ（読解a）(O1)",
+    "professor": "林 和子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxMxQAK",
+    "name": "52619:（留）日本語Ⅶ（読解a）(O2)",
+    "professor": "大島 弥生",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwsrQAC",
+    "name": "52685:（留）日本語Ⅶ（文章表現b）(O8)",
+    "professor": "大治 道子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwtpQAC",
+    "name": "52686:（留）日本語Ⅶ（文章表現b）(O9)",
+    "professor": "林 希和子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwxhQAC",
+    "name": "52691:（留）日本語Ⅶ（読解b）(O3)",
+    "professor": "角田 麻美",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwyfQAC",
+    "name": "52692:（留）日本語Ⅶ（読解b）(O4)",
+    "professor": "山田 千晶",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwzdQAC",
+    "name": "52693:（留）日本語Ⅶ（読解b）(O5)",
+    "professor": "大島 弥生",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxdjQAC",
+    "name": "54574:（留）日本の社会・政治(GV)",
+    "professor": "水沢 光",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxhbQAC",
+    "name": "54580:中国の国家と社会(GV)",
+    "professor": "大澤 直人",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry75QAC",
+    "name": "54605:（留）日本の自然・科学技術(GV)",
+    "professor": "持田 泰秀",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxuCQAS",
+    "name": "54653:スポーツ方法実習Ⅰ(A)(22)",
+    "professor": "増田 晶子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry1cQAC",
+    "name": "54659:スポーツ方法実習Ⅰ(C)(23)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyAyQAK",
+    "name": "54667:スポーツ方法実習Ⅱ(A)(23)",
+    "professor": "増田 晶子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyGmQAK",
+    "name": "54673:スポーツ方法実習Ⅱ(C)(23)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxJPQA0",
+    "name": "54547:音楽原論 (GV)",
+    "professor": "菅沼 起一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxtCQAS",
+    "name": "54498:メディアと現代文化(Q)",
+    "professor": "池田 知加",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx6wQAC",
+    "name": "53319:情報倫理と情報技術(K1)",
+    "professor": "泉 朋子、上原 哲太郎、GOHOUROU DJEDJE、西 竜志、松村 耕平、満上 育久、村尾 和哉、毛利 公一、李 周浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx7uQAC",
+    "name": "53320:情報倫理と情報技術(K2)",
+    "professor": "泉 朋子、上原 哲太郎、GOHOUROU DJEDJE、坪 泰宏、西 竜志、満上 育久、村尾 和哉、毛利 公一、李 周浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx8sQAC",
+    "name": "53321:情報倫理と情報技術(K3)",
+    "professor": "泉 朋子、上原 哲太郎、GOHOUROU DJEDJE、西 竜志、西原 陽子、満上 育久、村尾 和哉、毛利 公一、李 周浩",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxmEQAS",
+    "name": "53362:プログラミング演習２(F1)",
+    "professor": "遠里 由佳子、李 加一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxs2QAC",
+    "name": "53368:データ構造とアルゴリズム(E1)",
+    "professor": "満上 育久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwnAQAS",
+    "name": "53387:計算論(A1)",
+    "professor": "山下 茂",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwq4QAC",
+    "name": "53390:情報通信ネットワーク(B1)",
+    "professor": "野口 拓",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwzkQAC",
+    "name": "53404:データマイニング基礎(C1)",
+    "professor": "SHAN JUNJIE、原田 史子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxApQAK",
+    "name": "53413:ヒューマンインタフェース(R)",
+    "professor": "泉 朋子、木村 朝子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxIFQA0",
+    "name": "53419:生体計測工学(D1)",
+    "professor": "満田 隆",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxdXQAS",
+    "name": "53443:Introduction to OOA OOD and UML(G1)",
+    "professor": "GONCHARENKO IGOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxTsQAK",
+    "name": "53517:オペレーティングシステム(K1)",
+    "professor": "西尾 信彦",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxUqQAK",
+    "name": "53518:オペレーティングシステム(K2)",
+    "professor": "毛利 公一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxVoQAK",
+    "name": "53519:オペレーティングシステム(K3)",
+    "professor": "穐山 空道",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxM9QAK",
+    "name": "53563:セキュリティ・ネットワーク概論(B1)",
+    "professor": "上原 哲太郎、野口 拓",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxXlQAK",
+    "name": "53576:実世界情報演習１(D1)",
+    "professor": "満田 隆",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxYjQAK",
+    "name": "53577:実世界情報演習１(D2)",
+    "professor": "野間 春生",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxgTQAS",
+    "name": "53585:メディア計算機演習(E1)",
+    "professor": "永瀬 亮太郎",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxnFQAS",
+    "name": "53592:知能情報基礎演習(F1)",
+    "professor": "北野 勝則、西川 郁子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxoDQAS",
+    "name": "53593:知能情報基礎演習(F2)",
+    "professor": "北野 勝則、西川 郁子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxt3QAC",
+    "name": "53598:脳機能情報処理(F1)",
+    "professor": "坪 泰宏",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxzpQAC",
+    "name": "53609:Imperative Programming(G1)",
+    "professor": "VALENTINUS ROBY H.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwpVQAS",
+    "name": "34945:Introductory Course to Climate Change and Global Warming(G1)",
+    "professor": "稲澤 泉",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwNsQAK",
+    "name": "17098:教養ゼミナール(12)",
+    "professor": "戸谷 洋志",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwcOQAS",
+    "name": "17113:教養ゼミナール(27)",
+    "professor": "三沢 あき子",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwPjQAK",
+    "name": "35056:教養ゼミナール(41)",
+    "professor": "大島 陽",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RugdQAC",
+    "name": "15278:IR26-LAW101 Introduction to Law (RA)",
+    "professor": "越智 萌",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwunQAC",
+    "name": "52687:（留）日本語Ⅶ（文章表現b）(OE)",
+    "professor": "堤 美千絵",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxUTQA0",
+    "name": "51153:Cross-cultural Studies (GV)",
+    "professor": "石川 涼子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxWPQA0",
+    "name": "51158:Cross-cultural Encounters 1 (GY)",
+    "professor": "庄子 萌",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxbTQAS",
+    "name": "52635:（留）日本語Ⅶ（聴解口頭a）(O7)",
+    "professor": "ベイリー あゆみ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxEaQAK",
+    "name": "52706:（留）日本語Ⅶ（聴解口頭b）(O7)",
+    "professor": "水野 瑛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyJeQAK",
+    "name": "54523:（留）日本の文化・地理・歴史(GV)",
+    "professor": "中村 忠男",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxiZQAS",
+    "name": "54581:中国の国家と社会(GW)",
+    "professor": "齋藤 真司",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Ry2ZQAS",
+    "name": "54601:科学と技術の歴史(GW)",
+    "professor": "山崎 文徳",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxx6QAC",
+    "name": "54656:スポーツ方法実習Ⅰ(B)(22)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyCuQAK",
+    "name": "54669:スポーツ方法実習Ⅱ(B)(22)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxWyQAK",
+    "name": "54626:社会と学ぶ課題解決 (GV)",
+    "professor": "奥貫 麻紀",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxYuQAK",
+    "name": "54628:社会と学ぶ課題解決 (GX)",
+    "professor": "奥貫 麻紀",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxsFQAS",
+    "name": "54592:宇宙科学(W)",
+    "professor": "横山 修一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyJPQA0",
+    "name": "53101:英語入門 092(R6)",
+    "professor": "鈴木 ともこ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwwnQAC",
+    "name": "53102:英語入門 092(R7)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxWiQAK",
+    "name": "53134:英語初級 104(R4)",
+    "professor": "千葉 奈乙江",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxXgQAK",
+    "name": "53135:英語初級 104(R5)",
+    "professor": "鈴木 ともこ",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxnAQAS",
+    "name": "53151:英語中級 105(RY)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxuuQAC",
+    "name": "53159:英語中級 106(R2)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxvsQAC",
+    "name": "53160:英語中級 106(R3)",
+    "professor": "千葉 奈乙江",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyQCQA0",
+    "name": "53188:英語中級 108(R1)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyRAQA0",
+    "name": "53189:英語中級 108(R2)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyS8QAK",
+    "name": "53190:英語中級 108(R3)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxBlQAK",
+    "name": "53212:英語上級 110(G1)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxCjQAK",
+    "name": "53213:英語上級 110(G2)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxDhQAK",
+    "name": "53214:英語上級 110(G3)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxN3QAK",
+    "name": "53222:英語上級 110(R1)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxdVQAS",
+    "name": "53239:Academic Literacy 302(G1)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxeTQAS",
+    "name": "53240:Academic Literacy 302(G2)",
+    "professor": "LEASK JAMIE TAYLOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxfRQAS",
+    "name": "53241:Academic Literacy 302(G3)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxvuQAC",
+    "name": "53373:計算機科学実験１ (B1)",
+    "professor": "宮地 秀至、山本 寛",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxxqQAC",
+    "name": "53375:システムアーキテクト実験 (A1)",
+    "professor": "越智 裕之、岨野 太一、中村 優吾、西尾 信彦、村尾 和哉",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rwp6QAC",
+    "name": "53389:セキュリティ・ネットワーク学実験１(B1)",
+    "professor": "佐竹 賢治、野島 良",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxBnQAK",
+    "name": "53414:実世界情報実験１(D1)",
+    "professor": "高橋 治輝、松村 耕平、満田 隆",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxClQAK",
+    "name": "53415:実世界情報実験１(D2)",
+    "professor": "高橋 治輝、松村 耕平、満田 隆",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxEhQAK",
+    "name": "53417:ユビキタスコンピューティング(D1)",
+    "professor": "木村 朝子、柴田 史久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxVnQAK",
+    "name": "53433:生体生理工学(F1)",
+    "professor": "柏原 考爾",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxiNQAS",
+    "name": "53452:Distributed Systems(G1)",
+    "professor": "SALAMA SHADY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxKDQA0",
+    "name": "53561:オブジェクト指向論(K3)",
+    "professor": "丸山 勝久",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxQzQAK",
+    "name": "53568:社会システムデザイン概論 (C1)",
+    "professor": "泉 朋子、來村 徳信、SHAN JUNJIE、西原 陽子、服部 宏充、原田 史子、FLANAGAN BRENDAN J.、前田 亮、村上 陽平、安尾 萌",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxdZQAS",
+    "name": "53582:実世界情報実験２(D1)",
+    "professor": "木村 朝子、柴田 史久、中村 文彦、細田 侑也",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxeXQAS",
+    "name": "53583:実世界情報実験２(D2)",
+    "professor": "木村 朝子、柴田 史久、中村 文彦、細田 侑也",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxpBQAS",
+    "name": "53594:知能情報学実験(F1)",
+    "professor": "柏原 考爾、川西 康友",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxq9QAC",
+    "name": "53595:知能情報学実験(F2)",
+    "professor": "柏原 考爾、川西 康友",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxxtQAC",
+    "name": "53605:PBL 4: Team-based Creative Design (G1)",
+    "professor": "GONCHARENKO IGOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxyrQAC",
+    "name": "53607:PBL 4: Team-based Creative Design (G2)",
+    "professor": "CHANDLER DAMON M.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwKyQAK",
+    "name": "17095:教養ゼミナール(9)",
+    "professor": "木立 雅朗",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwMuQAK",
+    "name": "17097:教養ゼミナール(11)",
+    "professor": "ウエルズ 恵子",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwZUQA0",
+    "name": "17110:教養ゼミナール(24)",
+    "professor": "桐村 喬",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxJRQA0",
+    "name": "54682:教養ゼミナール(59)",
+    "professor": "周 緯生",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxOHQA0",
+    "name": "54687:教養ゼミナール(64)",
+    "professor": "安江 則子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rw6TQAS",
+    "name": "17119:超領域リベラルアーツ (GT)",
+    "professor": "羽谷 沙織、堀江 未来",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxSXQA0",
+    "name": "51149:Cross-cultural Encounters 1 (GW)",
+    "professor": "石川 涼子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxaHQAS",
+    "name": "51166:Cross-cultural Encounters 1 (GZ)",
+    "professor": "庄子 萌",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxaVQAS",
+    "name": "52634:（留）日本語Ⅶ（聴解口頭a）(O6)",
+    "professor": "水野 瑛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxDcQAK",
+    "name": "52705:（留）日本語Ⅶ（聴解口頭b）(O6)",
+    "professor": "堤 美千絵",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxU5QAK",
+    "name": "54693:現代平和論 (GV)",
+    "professor": "池尾 靖志",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxXwQAK",
+    "name": "54627:社会と学ぶ課題解決 (GW)",
+    "professor": "奥貫 麻紀",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyL2QAK",
+    "name": "51124:（教）教育相談の実際(G)",
+    "professor": "中村 健",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyGVQA0",
+    "name": "53098:英語入門 092(Q6)",
+    "professor": "鈴木 ともこ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyHTQA0",
+    "name": "53099:英語入門 092(Q7)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxSqQAK",
+    "name": "53130:英語初級 104(Q4)",
+    "professor": "千葉 奈乙江",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxToQAK",
+    "name": "53131:英語初級 104(Q5)",
+    "professor": "杉野 直樹",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxgOQAS",
+    "name": "53144:英語中級 105(QY)",
+    "professor": "加藤 佳子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rxo8QAC",
+    "name": "53152:英語中級 106(Q2)",
+    "professor": "谷村 緑",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rxp6QAC",
+    "name": "53153:英語中級 106(Q3)",
+    "professor": "千葉 奈乙江",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyJQQA0",
+    "name": "53181:英語中級 108(Q1)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyKOQA0",
+    "name": "53182:英語中級 108(Q2)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyLMQA0",
+    "name": "53183:英語中級 108(Q3)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxEfQAK",
+    "name": "53215:英語上級 110(Q1)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwghQAC",
+    "name": "53295:Exercises in Physics (G1)",
+    "professor": "SVININ MIKHAIL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxacQAC",
+    "name": "53350:Writing for Publication 402(GG)",
+    "professor": "DAUER HARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxbaQAC",
+    "name": "53351:Advanced Academic Reading 403 (GG)",
+    "professor": "杉森 直樹",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rx6xQAC",
+    "name": "53409:自然言語処理(R)",
+    "professor": "FLANAGAN BRENDAN J.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxHIQA0",
+    "name": "53502:Optimization and Control Theory (G1)",
+    "professor": "SVININ MIKHAIL",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxJFQA0",
+    "name": "53560:セキュリティ・ネットワーク開発演習 (B1)",
+    "professor": "西村 俊和、毛利 公一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxRxQAK",
+    "name": "53570:実践プログラミング演習(C1)",
+    "professor": "桑原 和宏、SHAN JUNJIE",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxuzQAC",
+    "name": "53600:実験データ解析論 (F1)",
+    "professor": "北野 勝則",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rwg9QAC",
+    "name": "34931:Liberal Arts Seminar (5)",
+    "professor": "近藤 雪絵",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Rub1QAC",
+    "name": "15256:IR26-POL103 Introduction to the United Nations(RA)",
+    "professor": "石川 幸子",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RubxQAC",
+    "name": "15260:IR26-POL103 Introduction to the United Nations(RB)",
+    "professor": "石川 幸子",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RuQ3QAK",
+    "name": "15231:IR26-IR114 Special Lecture (General Education Course)(RB)",
+    "professor": "GADJEVA NADEJDA P.",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwLrQAK",
+    "name": "35052:教養ゼミナール(37)",
+    "professor": "梶本 哲也",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxEvQAK",
+    "name": "54679:教養ゼミナール(56)",
+    "professor": "永島 正康",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Rw1bQAC",
+    "name": "17001:コーオプ演習（実践） (GV)",
+    "professor": "奥貫 麻紀",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Ry1bQAC",
+    "name": "54600:科学と技術の歴史(GV)",
+    "professor": "花木 完爾",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyI8QAK",
+    "name": "51120:（教）教育方法論（ICT活用を含む） (G)",
+    "professor": "細尾 萌子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyK4QAK",
+    "name": "51123:（教）教育相談の理論と方法(G)",
+    "professor": "中村 健",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwxlQAC",
+    "name": "53103:英語入門 092(RW)",
+    "professor": "鈴木 ともこ",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxK8QAK",
+    "name": "53121:英語初級 102(QP)",
+    "professor": "鈴木 ともこ",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxM5QAK",
+    "name": "53221:英語上級 110(QZ)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxszQAC",
+    "name": "53255:Academic Literacy 304(GA)",
+    "professor": "THORNTON MATTHEW A.",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxtxQAC",
+    "name": "53256:Academic Literacy 304(GB)",
+    "professor": "CONDON BARRY",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxuvQAC",
+    "name": "53257:Academic Literacy 304(GC)",
+    "professor": "BALL SIMON MICHAEL",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxCkQAK",
+    "name": "53325:Professional Ethics(G1)",
+    "professor": "UHDE ALARITH",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxKCQA0",
+    "name": "53506:論理回路(G1)",
+    "professor": "GONCHARENKO IGOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxWmQAK",
+    "name": "53520:ネットワークセキュリティ(G1)",
+    "professor": "COOPER ERIC WALLACE",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyOLQA0",
+    "name": "53632:イノベーション論(K1)",
+    "professor": "横田 修一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RuoDQAS",
+    "name": "10035:（教）道徳教育の理論と方法(N)",
+    "professor": "小川 雄",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "6"
+  },
+  {
+    "id": "a0ifD000003RvR2QAK",
+    "name": "30952:（教）道徳教育の理論と方法(N1)",
+    "professor": "松原 弘",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "木",
+    "period": "6"
+  },
+  {
+    "id": "a0ifD000003RyAOQA0",
+    "name": "51112:（教）教職概論(G)",
+    "professor": "武井 哲郎",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "木",
+    "period": "6"
+  },
+  {
+    "id": "a0ifD000003RxYZQA0",
+    "name": "52632:（留）日本語Ⅶ（聴解口頭a）(O4)",
+    "professor": "増井 奈穂美",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxZXQA0",
+    "name": "52633:（留）日本語Ⅶ（聴解口頭a）(O5)",
+    "professor": "梶田 真弥",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxcRQAS",
+    "name": "52636:（留）日本語Ⅶ（聴解口頭a）(O8)",
+    "professor": "大久保 加奈子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxdPQAS",
+    "name": "52637:（留）日本語Ⅶ（聴解口頭a）(O9)",
+    "professor": "大治 道子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxBgQAK",
+    "name": "52703:（留）日本語Ⅶ（聴解口頭b）(O4)",
+    "professor": "大久保 加奈子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxCeQAK",
+    "name": "52704:（留）日本語Ⅶ（聴解口頭b）(O5)",
+    "professor": "梶田 真弥",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxHAQA0",
+    "name": "52707:（留）日本語Ⅶ（聴解口頭b）(O8)",
+    "professor": "山田 千晶",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxI8QAK",
+    "name": "52708:（留）日本語Ⅶ（聴解口頭b）(O9)",
+    "professor": "大治 道子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxoOQAS",
+    "name": "54647:スポーツのサイエンス(GW)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003Ry84QAC",
+    "name": "54664:スポーツ方法実習Ⅰ(D)(24)",
+    "professor": "舎利弗 学",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyHkQAK",
+    "name": "54674:スポーツ方法実習Ⅱ(C)(24)",
+    "professor": "舎利弗 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyFEQA0",
+    "name": "51117:（教）児童・生徒理解の心理学(G)",
+    "professor": "川那部 隆司",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RyS9QAK",
+    "name": "53290:物理１(K3)",
+    "professor": "嶺重 慎",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxVmQAK",
+    "name": "53345:計算機構成論(G1)",
+    "professor": "GONCHARENKO IGOR",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxYgQAK",
+    "name": "53348:Information Science in Action(K1)",
+    "professor": "KHAN IBRAHIM",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxYhQAK",
+    "name": "53436:心理物理学(F1)",
+    "professor": "明石 行生、篠田 博之",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RwwrQAC",
+    "name": "53484:物理２(K1)",
+    "professor": "嶺重 慎",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxbcQAC",
+    "name": "53525:コンピュータグラフィックス(Q)",
+    "professor": "鷹取 慧",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxcaQAC",
+    "name": "53526:コンピュータグラフィックス(R)",
+    "professor": "仲田 晋、劉 家慶",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxkKQAS",
+    "name": "53535:プログラミング言語(D1)",
+    "professor": "安藤 潤人",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RxmGQAS",
+    "name": "53537:プログラミング言語(F1)",
+    "professor": "宋 裕",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "1"
+  },
+  {
+    "id": "a0ifD000003RweDQAS",
+    "name": "34927:Liberal Arts Seminar (3)",
+    "professor": "山中 司",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwfBQAS",
+    "name": "34929:Liberal Arts Seminar (4)",
+    "professor": "山中 司",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxPEQA0",
+    "name": "54618:Digital Archives: Applications of ICT to the Humanities(GV)",
+    "professor": "田中 覚",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwaNQAS",
+    "name": "35067:教養ゼミナール(52)",
+    "professor": "高田 達之",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RvQ4QAK",
+    "name": "30951:（教）道徳教育の理論と方法(G1)",
+    "professor": "朝岡 翔",
+    "campus": "BKC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RydeQAC",
+    "name": "52605:（留）日本語Ⅷ（キャリア日本語a）(O4)",
+    "professor": "京谷 麻矢",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry8hQAC",
+    "name": "52674:（留）日本語Ⅷ（キャリア日本語b）(O3)",
+    "professor": "京谷 麻矢",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyZmQAK",
+    "name": "52598:（留）日本語Ⅷ（アカデミック日本語a）(O4)",
+    "professor": "梶田 真弥",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxVfQAK",
+    "name": "52629:（留）日本語Ⅶ（聴解口頭a）(O1)",
+    "professor": "大治 道子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxWdQAK",
+    "name": "52630:（留）日本語Ⅶ（聴解口頭a）(O2)",
+    "professor": "山田 千晶",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry4BQAS",
+    "name": "52669:（留）日本語Ⅷ（アカデミック日本語b）(O4)",
+    "professor": "梶田 真弥",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxnOQAS",
+    "name": "54487:ピア・サポート論(GX)",
+    "professor": "矢野 浩二朗",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxT6QAK",
+    "name": "54622:Understanding Visual Culture(GV)",
+    "professor": "永田 彰子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Ry2aQAC",
+    "name": "54660:スポーツ方法実習Ⅰ(C)(24)",
+    "professor": "舎利弗 学",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyKeQAK",
+    "name": "54677:スポーツ方法実習Ⅱ(D)(23)",
+    "professor": "舎利弗 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxRBQA0",
+    "name": "54690:異文化間テーマ演習(GV)",
+    "professor": "大島 弥生",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxKNQA0",
+    "name": "54549:音楽原論 (GW)",
+    "professor": "木村 遥",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RyBuQAK",
+    "name": "54515:心理学入門(W)",
+    "professor": "服部 郁子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rx9qQAC",
+    "name": "53322:計算機科学入門(QA)",
+    "professor": "西尾 信彦",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxAoQAK",
+    "name": "53323:計算機科学入門(RA)",
+    "professor": "原田 史子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxp8QAC",
+    "name": "53365:データ構造とアルゴリズム(B1)",
+    "professor": "野島 良",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxq6QAC",
+    "name": "53366:データ構造とアルゴリズム(C1)",
+    "professor": "村上 陽平",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwgiQAC",
+    "name": "53379:データ線形分析法 (Q)",
+    "professor": "槇原 絵里奈",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RwhgQAC",
+    "name": "53381:データ線形分析法 (R)",
+    "professor": "島川 博光",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxN5QAK",
+    "name": "53424:メディア基礎数学(E1)",
+    "professor": "高島 遼一、満上 育久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxWlQAK",
+    "name": "53434:知能情報システム創成(F1)",
+    "professor": "明石 行生、坪 泰宏、西 竜志、李 加一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxXjQAK",
+    "name": "53435:知能情報システム創成(F2)",
+    "professor": "明石 行生、坪 泰宏、西 竜志、李 加一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxcZQAS",
+    "name": "53442:Introduction to Programming(G1)",
+    "professor": "CALUYA NICKO REGINIO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxaeQAC",
+    "name": "53524:コンピュータグラフィックス(G1)",
+    "professor": "GONCHARENKO IGOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxeWQAS",
+    "name": "53528:人工知能(Q)",
+    "professor": "泉 朋子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxfUQAS",
+    "name": "53530:人工知能(R)",
+    "professor": "西 竜志",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxiOQAS",
+    "name": "53533:プログラミング言語(B1)",
+    "professor": "上山 憲昭",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxjMQAS",
+    "name": "53534:プログラミング言語(C1)",
+    "professor": "服部 宏充",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxoCQAS",
+    "name": "53539:プログラミング演習１(A1)",
+    "professor": "岨野 太一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxt2QAC",
+    "name": "53544:プログラミング演習１(D1)",
+    "professor": "安藤 潤人、細田 侑也",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxu0QAC",
+    "name": "53545:プログラミング演習１(E1)",
+    "professor": "徐 遅",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxuyQAC",
+    "name": "53546:プログラミング演習１(E2)",
+    "professor": "陳 延偉",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxvwQAC",
+    "name": "53547:プログラミング演習１(F1)",
+    "professor": "宋 裕",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003RxTtQAK",
+    "name": "53572:Webコンピューティング(C1)",
+    "professor": "村上 陽平",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rxs5QAC",
+    "name": "53597:色彩工学(F1)",
+    "professor": "明石 行生、篠田 博之",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "2"
+  },
+  {
+    "id": "a0ifD000003Rwh7QAC",
+    "name": "34933:Liberal Arts Seminar (6)",
+    "professor": "人見 麻紀",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RvpxQAC",
+    "name": "16877:国の行政組織 (GA)",
+    "professor": "紀國 洋",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwTbQAK",
+    "name": "35060:教養ゼミナール(45)",
+    "professor": "久保 幹",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxPdQAK",
+    "name": "51143:Academic Skills 1 (GV)",
+    "professor": "SCHWARZ SIMON JOHN",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxXbQAK",
+    "name": "52631:（留）日本語Ⅶ（聴解口頭a）(O3)",
+    "professor": "梶田 真弥",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rx8mQAC",
+    "name": "52700:（留）日本語Ⅶ（聴解口頭b）(O1)",
+    "professor": "大治 道子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rx9kQAC",
+    "name": "52701:（留）日本語Ⅶ（聴解口頭b）(O2)",
+    "professor": "山田 千晶",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxAiQAK",
+    "name": "52702:（留）日本語Ⅶ（聴解口頭b）(O3)",
+    "professor": "梶田 真弥",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxvAQAS",
+    "name": "54654:スポーツ方法実習Ⅰ(A)(23)",
+    "professor": "稲田 愛子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RyDsQAK",
+    "name": "54670:スポーツ方法実習Ⅱ(B)(23)",
+    "professor": "舎利弗 学",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxZrQAK",
+    "name": "54569:現代の世界経済(GV)",
+    "professor": "林 尚毅",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwhfQAC",
+    "name": "53297:情報理論(K1)",
+    "professor": "野島 良",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwidQAC",
+    "name": "53298:情報理論(K2)",
+    "professor": "木村 朝子、柴田 史久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwjbQAC",
+    "name": "53299:情報理論(K3)",
+    "professor": "佐竹 賢治",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxgQQAS",
+    "name": "53356:プログラミング演習２(B1)",
+    "professor": "西村 俊和",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxhOQAS",
+    "name": "53357:プログラミング演習２(C1)",
+    "professor": "PITUXCOOSUVARN M.、安尾 萌",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxyoQAC",
+    "name": "53377:IoT(A1)",
+    "professor": "西尾 信彦",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxO3QAK",
+    "name": "53425:画像情報処理１(E1)",
+    "professor": "陳 延偉、満上 育久",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxStQAK",
+    "name": "53430:機械学習(Q)",
+    "professor": "川西 康友、西川 郁子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwvtQAC",
+    "name": "53483:化学２(K1)",
+    "professor": "梶本 哲也",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxCmQAK",
+    "name": "53499:離散数学(R)",
+    "professor": "徐 遅、高島 遼一、野口 拓",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxDkQAK",
+    "name": "53500:数値解析(Q)",
+    "professor": "仲田 晋、野間 春生、松村 耕平",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxhQQAS",
+    "name": "53532:プログラミング言語(A1)",
+    "professor": "中村 優吾",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxpAQAS",
+    "name": "53540:プログラミング演習１(B1)",
+    "professor": "穐山 空道",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxq8QAC",
+    "name": "53541:プログラミング演習１(B2)",
+    "professor": "上山 憲昭",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxr6QAC",
+    "name": "53542:プログラミング演習１(C1)",
+    "professor": "原田 史子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxs4QAC",
+    "name": "53543:プログラミング演習１(C2)",
+    "professor": "西原 陽子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxQ1QAK",
+    "name": "53567:暗号理論(B1)",
+    "professor": "野島 良",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RxlJQAS",
+    "name": "53590:画像情報処理２(E1)",
+    "professor": "満上 育久、李 印豪",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003Rxu1QAC",
+    "name": "53599:機械学習(R)",
+    "professor": "川西 康友、西川 郁子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "3"
+  },
+  {
+    "id": "a0ifD000003RwI4QAK",
+    "name": "17092:教養ゼミナール(6)",
+    "professor": "景井 充",
+    "campus": "衣笠",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxeNQAS",
+    "name": "52638:（留）日本語Ⅶ（聴解口頭a）(OE)",
+    "professor": "増井 奈穂美",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxJ6QAK",
+    "name": "52709:（留）日本語Ⅶ（聴解口頭b）(OE)",
+    "professor": "ベイリー あゆみ",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxYLQA0",
+    "name": "51162:Cross-cultural Encounters 1 (GU)",
+    "professor": "駒見 一善",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxEtQAK",
+    "name": "54543:（留）日本語学(GV)",
+    "professor": "三井 久美子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxU4QAK",
+    "name": "54623:Understanding Visual Culture(GW)",
+    "professor": "永田 彰子",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Rxv8QAC",
+    "name": "54500:日本国憲法(GV)",
+    "professor": "小松 浩",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Ry82QAC",
+    "name": "54511:哲学と人間(Q)",
+    "professor": "神田 大輔",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxWkQAK",
+    "name": "53346:計算機構成論(Q)",
+    "professor": "山下 茂",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxXiQAK",
+    "name": "53347:計算機構成論(R)",
+    "professor": "越智 裕之",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RwsyQAC",
+    "name": "53394:システムソフトウェア構成論(B1)",
+    "professor": "毛利 公一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxHHQA0",
+    "name": "53418:システム制御工学(D1)",
+    "professor": "安藤 潤人、野間 春生",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RxZhQAK",
+    "name": "53578:インタラクションデザイン論(D1)",
+    "professor": "木村 朝子、野間 春生",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Ry2PQAS",
+    "name": "53610:Imperative Programming Practice (G1)",
+    "professor": "CALUYA NICKO REGINIO",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003Ry8rQAC",
+    "name": "53616:Pattern Recognition and Machine Learning(G1)",
+    "professor": "THAWONMAS RUCK",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyAnQAK",
+    "name": "53618:連携講座(K1)",
+    "professor": "田中 覚、前田 忠彦、山下 洋一",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyPJQA0",
+    "name": "53633:ファイナンス入門(K1)",
+    "professor": "大澤 潤",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "4"
+  },
+  {
+    "id": "a0ifD000003RyFHQA0",
+    "name": "51384:Cross Border Policy Issues(P)",
+    "professor": "OMONDI ISAAC ONYANGO",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwYWQA0",
+    "name": "17109:教養ゼミナール(23)",
+    "professor": "佐野 まさき",
+    "campus": "衣笠",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwbLQAS",
+    "name": "35068:教養ゼミナール(53)",
+    "professor": "小沢 道紀",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwcJQAS",
+    "name": "35069:教養ゼミナール(54)",
+    "professor": "RAUPACH SUMIYA JOERG",
+    "campus": "BKC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003Ry9QQAS",
+    "name": "51111:（教）教育原理(G)",
+    "professor": "山内 清郎",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyHAQA0",
+    "name": "51119:（教）特別活動の理論と方法(G)",
+    "professor": "浅田 瞳",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxtyQAC",
+    "name": "53370:データ構造とアルゴリズム(G1)",
+    "professor": "CALUYA NICKO REGINIO",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RxIGQA0",
+    "name": "53503:Statistical Analysis, Simulation, and Modeling(G1)",
+    "professor": "KRYSSANOV VICTOR",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyMPQA0",
+    "name": "53630:ICT価値探求デザイン演習 (K2)",
+    "professor": "横田 修一",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyNNQA0",
+    "name": "53631:プロジェクトマネジメント基礎 (K3)",
+    "professor": "枝川 義邦",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RyRFQA0",
+    "name": "53635:技術経営特論(K1)",
+    "professor": "小田 哲明",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "金",
+    "period": "5"
+  },
+  {
+    "id": "a0ifD000003RwaLQAS",
+    "name": "34923:データサイエンス・AI基礎 (G1)",
+    "professor": "西門 秀人",
+    "campus": "*",
+    "term": "春セメスター",
+    "day": "月",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RwbJQAS",
+    "name": "34924:データサイエンス・AI基礎 (G2)",
+    "professor": "西門 秀人",
+    "campus": "*",
+    "term": "秋セメスター",
+    "day": "月",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RyCKQA0",
+    "name": "51114:（教）教育心理学(G)",
+    "professor": "川那部 隆司",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RyEGQA0",
+    "name": "51116:（教）教育課程論(G)",
+    "professor": "細尾 萌子",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "月",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RwrWQAS",
+    "name": "16970:Foundations of Data Science and AI (G1)",
+    "professor": "西門 秀人",
+    "campus": "*",
+    "term": "春セメスター",
+    "day": "火",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RwsUQAS",
+    "name": "16972:Foundations of Data Engineering (G1)",
+    "professor": "西門 秀人",
+    "campus": "*",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RxTVQA0",
+    "name": "51151:Cross-cultural Encounters 2 (GV)",
+    "professor": "石川 涼子、庄子 萌、羽谷 沙織",
+    "campus": "OIC",
+    "term": "春セメスター",
+    "day": "火",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RxVRQA0",
+    "name": "51156:Cross-cultural Encounters 2 (GW)",
+    "professor": "石川 涼子、庄子 萌、羽谷 沙織",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "火",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RwcHQAS",
+    "name": "34925:データエンジニアリング基礎 (G1)",
+    "professor": "西門 秀人",
+    "campus": "*",
+    "term": "春セメスター",
+    "day": "水",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RwdFQAS",
+    "name": "34926:データエンジニアリング基礎 (G2)",
+    "professor": "西門 秀人",
+    "campus": "*",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": ""
+  },
+  {
+    "id": "a0ifD000003RyKcQAK",
+    "name": "54525:メディアと図書館 (GV)",
+    "professor": "辻 高明",
+    "campus": "OIC",
+    "term": "秋セメスター",
+    "day": "水",
+    "period": ""
+  }
+]

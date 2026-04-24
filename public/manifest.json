@@ -1,0 +1,22 @@
+{
+  "name": "Ritsumei Time",
+  "short_name": "Ritsumei Time",
+  "description": "立命館大学向け スマホ表示対応・時間割作成 PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6b21a8",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
